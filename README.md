@@ -1,4 +1,4 @@
 # Simulasi Smart Home
 
 ## Screenshoot Home Page
-![alt text][https://github.com/humiditech/smarthome_simulation/blob/master/SC-Homepage.png]
+![alt text][https://raw.githubusercontent.com/humiditech/smarthome_simulation/master/SC-Homepage.png]
