@@ -9,8 +9,8 @@ Pada projek ini terdiri dari dua bagian utama :
 Web server berfungsi untuk menjalankan simulasi Smart Home. 
 Web server menggunakan Node.js sebagai bahasa pemrogaman utama, Express.js sebagai server utama, dan ws.js sebagai server websocket yang akan berkomunikasi dengan ESP-01.
 
-⋅⋅* Dokumentasi Node.js : https://nodejs.org/en/
-⋅⋅* Dokumentasi Express.js : https://expressjs.com/
-⋅⋅* Dokumentasi Websocket : https://www.codepolitan.com/menegtahui-apa-itu-websocket
+* Dokumentasi Node.js : https://nodejs.org/en/
+* Dokumentasi Express.js : https://expressjs.com/
+* Dokumentasi Websocket : https://www.codepolitan.com/menegtahui-apa-itu-websocket
 
 2. ESP-01 Side 
